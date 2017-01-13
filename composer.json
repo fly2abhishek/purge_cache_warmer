@@ -1,0 +1,6 @@
+{
+  "name": "fly2abhsihek/purge_cache_warmer",
+  "description": "Implements a cache warmer which rebuilds a UrL after the cache is cleared.",
+  "type": "drupal-module",
+  "license": "GPL-2.0+"
+}
