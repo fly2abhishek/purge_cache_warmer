@@ -5,3 +5,4 @@ type: module
 package: Custom
 dependencies:
   - purge
+  - purge_queuer_url
